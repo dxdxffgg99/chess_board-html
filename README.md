@@ -15,6 +15,9 @@ Open `index.html` in your browser. That's it.
 
 ---
 
-Made with 💻 and ✨ pure chaos ✨
+Made with 💻 and ✨ pure chaos ✨ and also no license
 
-# Who in their right mind would spend time on this? Definitely not me. Oh wait...
+
+
+### Best thing about it? No copyright. Go wild. But let's be real… no one's gonna use this
+### Who in their right mind would spend time on this? Definitely not me. Oh wait...
