@@ -17,3 +17,5 @@ Open `index.html` in your browser. That's it.
 ---
 
 Made with 💻 and ✨ pure chaos ✨
+
+# Who in their right mind would spend time on this? Definitely not me. Oh wait...
