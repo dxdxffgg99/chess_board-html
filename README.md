@@ -7,8 +7,7 @@ No logic, no AI, no point — just pretty squares 😎
 Open `index.html` in your browser. That's it.
 
 ## 📁 Project Structure
-- `index.html` — the chessboard
-- `style.css` — the colors
+- `index.html` — the chessboard inner stylesheet
 - No JS yet. Maybe never.
 
 ## 🤡 Why?
